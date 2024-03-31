@@ -68,3 +68,6 @@ public class Animal {
         return  this.name + "family : "+this.family+ " age : "+this.age+" isMammal "+this.isMammal;
     }
 }
+
+
+//git test
